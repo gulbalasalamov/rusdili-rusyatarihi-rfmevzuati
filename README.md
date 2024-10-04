@@ -61,8 +61,7 @@ Dokumana buradan ulaşabilirsiniz: https://github.com/gulbalasalamov/rusdili-rus
 
 Hepinize faydalı olması dileğiyle.
 
-**Gönüllü olarak hazırladığım bu eğitsel materyali beğenip bana bir kahve desteğinde bulunmak isterseniz:
-**
+**Gönüllü olarak hazırladığım bu eğitsel materyali beğenip bana bir kahve desteğinde bulunmak isterseniz:**
 
 Türkiye’deki IBAN adresime
 TR47 0011 1000 0000 0123 1452 36
