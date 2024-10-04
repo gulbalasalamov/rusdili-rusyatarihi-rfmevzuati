@@ -57,7 +57,7 @@ Dolayısıyla stratejik olarak sınava yönelik çalışarak, sistematik ve her 
 Sınava hazırlanırken kendinizde farkettiğiniz kavramsal ve kelime eksikleri olabilir. Ben bu dokümanda sadece kendi bilmediğim Rusça kelime ve cümlelerin tercümelerini yazdım. 
 Belki siz bunları biliyor bile olabilirsiniz. Bilmediklerinizi de zamanla üzerine koyarak kendinizi geliştirmeye devam edebilirsiniz.
 
-Dokumana buradan ulaşabilirsiniz: 
+Dokumana buradan ulaşabilirsiniz: https://github.com/gulbalasalamov/rusdili-rusyatarihi-rfmevzuati/blob/main/rusdili-rusyatarihi-rfmevzuati.pdf
 
 Hepinize faydalı olması dileğiyle.
 
