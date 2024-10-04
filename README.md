@@ -19,12 +19,11 @@ ve bunu aşağıdaki sınavlardan kendilerine uygun olana girerek kanıtlamalar�
 - Geçici İkamet (RVP) - Seviye II
 - Oturum İzni (VNJ) - Seviye III
 
-
 Bu sınava hazırlık materyalini Rusya’da **Geçici Oturma İzni (RVP)** almak isteyen ve **Yabancılar için Rusça, Rusya Tarihi ve Rusya Federasyonu Mevzuatının Temelleri - Seviye II** sınavına hazırlananlara yardımcı olması için hazırladım. 
 
 01 Ekim 2024 tarihinde St. Petersburg Herzen Üniversitesi’nde sınava girdim ve sınavı başarıyla geçerek sertifikamı aldım. 
 
-![image](https://github.com/user-attachments/assets/b748466f-6ef8-4514-b31e-33d0c4563cff)
+![image](https://github.com/user-attachments/assets/5c19da62-61d6-4ecc-8a35-2929ec9126b2)
 
 Bu materyalde sınava hazırlık için  **Federal Pedagojik Ölçümler Enstitüsü (Федеральное управление и управление едерального института педагогических измерений) ** tarafından önerilen ve paylaşılmış açık kaynak soru bankasındaki soruların cevabını bulacaksınız. 
 
